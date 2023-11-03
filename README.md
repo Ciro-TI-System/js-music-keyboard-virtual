@@ -1,4 +1,4 @@
-# Jogo da Memória com Emojis
+# Simulador de Piano
 
 Repositório criado para o desafio do curso 'Construindo um Simulador de Piano com JavaScript'.
 
@@ -17,10 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
 </br>
-
-## 🎲 DEMO
-
-<br>
 
 ## 📝 License
 
